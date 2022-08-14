@@ -1,2 +1,2 @@
 # FirstTeleBot
-My first telegram bot. Simply info bot.
+My first telegram bot. Simply info bot. :)
