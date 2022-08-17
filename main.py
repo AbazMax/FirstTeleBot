@@ -18,7 +18,6 @@ def start(message):
 
 @bot.message_handler()
 def wiki(search_text):
-#    search_text = input("What do you search?")
     result = url = "https://ru.wikipedia.org/wiki/" + str(search_text.text)
     bot.send_message(search_text.chat.id, result, parse_mode="html")
 
