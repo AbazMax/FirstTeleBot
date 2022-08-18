@@ -1,3 +1,5 @@
 # FirstTeleBot
 My first telegram bot. Simply info bot. :)
-To be continue...
+Only two functions:
+1. Getting USD currency value
+2. Searching in wikipedia
